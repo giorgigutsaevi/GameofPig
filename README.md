@@ -1,5 +1,5 @@
 # GameofPig
-Rolling dice game
+A Rolling dice game built with vanilla JavaScript, HTML & CSS. Please open README to read the game rules.
 
 Traditionally the game is played until the player accumulates 100 points. However my version is faster, so the player needs to only get 50 points to win!
 
